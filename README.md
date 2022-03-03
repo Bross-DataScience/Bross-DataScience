@@ -11,7 +11,6 @@
   <img align='center' alt='Bross-Python' height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align='center' alt='Bross-Docker' height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align='center' alt='Bross-Mongo' height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align='center' alt='Bross-Djando' height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
   <img align='center' alt='Bross-Jupyter' height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img align='center' alt='Bross-Ubuntu' height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
   <img align='center' alt='Bross-Pandas' height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
